@@ -1,7 +1,7 @@
 from datetime import datetime, timedelta
 counter = 0
 days_list = []
-with open('t6.txt', 'r') as f:
+with open('date3.txt', 'r') as f:
     for row in f:
         day = datetime.strptime(row.replace('\n', ''), '%m-%d-%Y')
         if (

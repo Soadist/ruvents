@@ -15,7 +15,7 @@ def primes_to_n(n):
 
 max = 0
 array = list()
-with open('t2.txt', 'r') as f:
+with open('num2.txt', 'r') as f:
     for row in f:
         number = int(row)
         if number > max:
