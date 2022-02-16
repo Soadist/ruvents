@@ -1,0 +1,6 @@
+num1 = 488
+num2 = 168
+num3 = 485
+date1 = 156
+date2 = 138
+date3 = 43
